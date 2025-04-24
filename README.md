@@ -1,4 +1,4 @@
-# 🔧 BIM Power Tools for Colab
+# 🔧 BIM Power Tools NoteBooks
 
 **One-click automation for IFC and BIM workflows - no installations, no licenses**
 
