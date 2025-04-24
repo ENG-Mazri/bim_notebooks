@@ -2,13 +2,12 @@
 
 **One-click automation for IFC and BIM workflows - no installations, no licenses**
 
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![IFC](https://img.shields.io/badge/IFC-4BC0F5?style=for-the-badge&logo=ifc&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white) ![ifcOpenShell](https://img.shields.io/badge/ifcOpenShell-2D5C88?style=for-the-badge&logo=ifc&logoColor=white) ![IFC](https://img.shields.io/badge/IFC-4BC0F5?style=for-the-badge&logo=ifc&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 🚀 Quick Start
 
 1. Click the **Open in Colab** button on any notebook
-2. Run all cells (`Runtime > Run all`)
+2. Run all cells
 3. Upload your IFC when prompted
 4. Get instant results or a shareable app link!
 
@@ -17,13 +16,8 @@
 ### Core Tools
 | Notebook | Description | Video |
 |----------|-------------|-------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/IFC_Property_Extractor.ipynb) | Extract all properties to Excel/CSV | [▶️](https://youtu.be) |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/Model_QC_Audit.ipynb) | Automated standards checker | [▶️](https://youtu.be) |
+| [![Open Notebook](https://colab.research.google.com/assets/colab-badge.svg)]([notebooks/IFC_Property_Extractor.ipynb](https://github.com/ENG-Mazri/bim_notebooks/blob/master/IFC_Property_Extractor.ipynb)) | Extract all properties to Excel/CSV | [▶️](https://www.youtube.com/channel/UCEA6IkK-4C5VUwLd0tgm0hw) |
 
-### Coming Soon
-- Quantity takeoff generator
-- Drawing revision comparator
-- COBie data exporter
 
 ## 💡 Why Colab?
 - **No IT headaches** - Runs in your browser
@@ -38,4 +32,4 @@ Found a bug? Want to add a tool?
 3. Submit a pull request
 
 ## 📺 Learn More
-[![YouTube](https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=...)
+[![YouTube](https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEA6IkK-4C5VUwLd0tgm0hw)
