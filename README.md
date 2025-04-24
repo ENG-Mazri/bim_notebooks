@@ -2,7 +2,7 @@
 
 **One-click automation for IFC and BIM workflows - no installations, no licenses**
 
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white) ![ifcOpenShell](https://img.shields.io/badge/ifcOpenShell-2D5C88?style=for-the-badge&logo=ifc&logoColor=white) ![IFC](https://img.shields.io/badge/IFC-4BC0F5?style=for-the-badge&logo=ifc&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white) ![ifcOpenShell](https://img.shields.io/badge/ifcOpenShell-2D5C88?style=for-the-badge&logo=ifcopenshell&logoColor=white) ![IFC](https://img.shields.io/badge/IFC-4BC0F5?style=for-the-badge&logo=ifc&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 🚀 Quick Start
 
