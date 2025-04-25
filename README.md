@@ -8,7 +8,6 @@
 
 1. Click the **Open in Colab** button on any notebook
 2. Run all cells
-3. Upload your IFC when prompted
 4. Get instant results or a shareable app link!
 
 ## 📚 Notebook Catalog
@@ -16,7 +15,7 @@
 ### Core Tools
 | Notebook | Description | Video |
 |----------|-------------|-------|
-| [![Open Notebook](https://colab.research.google.com/assets/colab-badge.svg)]([notebooks/IFC_Property_Extractor.ipynb](https://github.com/ENG-Mazri/bim_notebooks/blob/master/IFC_Property_Extractor.ipynb)) | Extract IFC properties to Excel/CSV | [▶️](https://www.youtube.com/watch?v=smkNye1Q1sI) |
+| [![Open Notebook](https://colab.research.google.com/assets/colab-badge.svg)][notebooks/IFC_Property_Extractor.ipynb](https://github.com/ENG-Mazri/bim_notebooks/blob/master/IFC_Property_Extractor.ipynb) | Extract IFC properties to Excel/CSV | [▶️](https://www.youtube.com/watch?v=smkNye1Q1sI) |
 
 
 ## 💡 Why Colab?
