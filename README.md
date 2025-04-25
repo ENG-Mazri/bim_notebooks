@@ -15,7 +15,7 @@
 ### Core Tools
 | Notebook | Description | Video |
 |----------|-------------|-------|
-| [![Open Notebook](https://colab.research.google.com/assets/colab-badge.svg)][notebooks/IFC_Property_Extractor.ipynb](https://github.com/ENG-Mazri/bim_notebooks/blob/master/IFC_Property_Extractor.ipynb) | Extract IFC properties to Excel/CSV | [▶️](https://www.youtube.com/watch?v=smkNye1Q1sI) |
+| [![Open Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ENG-Mazri/bim_notebooks/blob/master/IFC_Property_Extractor.ipynb) | Extract IFC properties to Excel/CSV | [▶️](https://www.youtube.com/watch?v=smkNye1Q1sI) |
 
 
 ## 💡 Why Colab?
